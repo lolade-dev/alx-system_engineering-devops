@@ -1,1 +1,1 @@
-Bash projects
+This repository contains shell permissions and basics
